@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f5f9;
+    color: #1e293b;
+    margin: 0;
+    padding: 20px;
+}
+h1, .intro {
+    text-align: center;
+}
+.container {
+    max-width: 800px;
+    margin: 30px auto;
+}
+.card-one {
+    width: 300px;
+    padding: 10px;
+    border: 2px solid blue;
+    margin: 15px;
+    background-color: #dbeafe;
+}
+.card-two {
+    width: 340px;
+    padding: 25px;
+    border: 5px solid green;
+    margin: 30px;
+    background-color: #dcfce7;
+}
+.card-three {
+    width: 300px;
+    padding: 20px;
+    border: 4px dashed orange;
+    margin: 40px;
+    background-color: #fef3c7;
+}
+.card h2 {
+    margin-top: 0;
+}
